@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactGeneralStore/static/css/main.c68d05f2.chunk.css",
+    "main.js": "/ReactGeneralStore/static/js/main.d61dc616.chunk.js",
+    "main.js.map": "/ReactGeneralStore/static/js/main.d61dc616.chunk.js.map",
+    "runtime-main.js": "/ReactGeneralStore/static/js/runtime-main.0e512b57.js",
+    "runtime-main.js.map": "/ReactGeneralStore/static/js/runtime-main.0e512b57.js.map",
+    "static/js/2.f0653e08.chunk.js": "/ReactGeneralStore/static/js/2.f0653e08.chunk.js",
+    "static/js/2.f0653e08.chunk.js.map": "/ReactGeneralStore/static/js/2.f0653e08.chunk.js.map",
+    "index.html": "/ReactGeneralStore/index.html",
+    "static/css/main.c68d05f2.chunk.css.map": "/ReactGeneralStore/static/css/main.c68d05f2.chunk.css.map",
+    "static/js/2.f0653e08.chunk.js.LICENSE.txt": "/ReactGeneralStore/static/js/2.f0653e08.chunk.js.LICENSE.txt",
+    "static/media/shopping.9a6a8878.jpg": "/ReactGeneralStore/static/media/shopping.9a6a8878.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e512b57.js",
+    "static/js/2.f0653e08.chunk.js",
+    "static/css/main.c68d05f2.chunk.css",
+    "static/js/main.d61dc616.chunk.js"
+  ]
+}
